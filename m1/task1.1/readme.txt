@@ -1,1 +1,0 @@
-# DevOps_online_Kharkov_2022Q1Q2
