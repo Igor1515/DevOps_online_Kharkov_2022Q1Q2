@@ -1,0 +1,18 @@
+igor@home:~/Загрузки/Epam/DevOps_online_Kharkov_2022Q1Q2/m1/task1.1/develop$ git reflog
+8b49465 (HEAD -> master, origin/master, origin/main, origin/HEAD) HEAD@{0}: Branch: renamed refs/heads/main to refs/heads/master
+8b49465 (HEAD -> master, origin/master, origin/main, origin/HEAD) HEAD@{2}: commit (merge): merge
+177bba5 HEAD@{3}: commit: merge
+2f59857 (origin/images, origin/DevOps_online_Kharkov_2022Q1Q2, images) HEAD@{4}: checkout: moving from styles to main
+2b18e59 (origin/styles, styles) HEAD@{5}: commit: update
+fa093a0 HEAD@{6}: commit: styles
+2f59857 (origin/images, origin/DevOps_online_Kharkov_2022Q1Q2, images) HEAD@{7}: checkout: moving from main to styles
+2f59857 (origin/images, origin/DevOps_online_Kharkov_2022Q1Q2, images) HEAD@{8}: checkout: moving from images to main
+2f59857 (origin/images, origin/DevOps_online_Kharkov_2022Q1Q2, images) HEAD@{9}: checkout: moving from main to images
+2f59857 (origin/images, origin/DevOps_online_Kharkov_2022Q1Q2, images) HEAD@{10}: commit: initial commit
+1edac5f HEAD@{11}: commit: v1
+6d04448 HEAD@{12}: rebase finished: returning to refs/heads/main
+6d04448 HEAD@{13}: pull --rebase: First commit
+2478025 HEAD@{14}: pull --rebase: checkout 247802590fcac1e24750f5f88d7be3a8200f23fc
+0901e60 HEAD@{15}: commit: First commit
+49b2f78 HEAD@{16}: clone: from https://github.com/Igor1515/DevOps_online_Kharkov_2022Q1Q2
+
