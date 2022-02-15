@@ -1,0 +1,2 @@
+1. The leaders in the supply of solutions for virtualization of information systems are VMware, Microsoft, Oracle.
+2. Virtualbox can be installed on any operating system, unlike others hypervisors. Virtualbox is free, you cannot allocate more than 256 MB of video memory to a machine. In VMware, there is no such limitation in 2 versions.VMware has a paid version for corporate clients with advanced functionality and a free version with basic application settings.
