@@ -81,9 +81,9 @@ PART 3. WORK WITH VAGRANT
 
 6. Record the date and time by exuting the date command
 
-<p align="center"><img src="images/task2.1vagrant_date" height="250"/></p>
+<p align="center"><img src="images/task2.1vagrant_date.png" height="250"/></p>
 
 7. Stop and delete the created VM.
 
-<p align="center"><img src="images/task2.1_shutdown, destroy" height="250"/></p>
+<p align="center"><img src="images/task2.1_shutdown, destroy.png" height="250"/></p>
 
