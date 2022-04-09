@@ -39,7 +39,7 @@ Part 2. ork with virtualbox
 
 <p align="center"><img src="images/task2.1(import.ova).png" height="250"/></p>
 
-<p align="center"><img src="images/task2.1(import.ova)2.png" height="250"/></p>
+<p align="center"><img src="images/task2.1(import.ova2).png" height="250"/></p>
 
 2 Configuration of virtual machine
 
@@ -58,4 +58,32 @@ Part 2. ork with virtualbox
 
 <p align="center"><img src="images/task2.1(virtual_folder).png" height="250"/></p>
 
+2.4 Configure different network modes for VM1, VM2
+
+<p align="center"><img src="images/task2.1(network)" height="250"/></p>
+
+
+PART 3. WORK WITH VAGRANT
+
+1. Download the required version of Vagrant according to the instructions and according to the host operating system install on my PC.
+
+2. I create a folder with my name, open this folder.
+
+3. Initilize the environment with the default Vagrant box
+
+4. Run Vagrant up and watch for messages during VM boot and startup.
+
+<p align="center"><img src="images/task2.1vagrant_up" height="250"/></p>
+
+5. Connect to the VM using SSH 
+
+<p align="center"><img src="images/task2.1vagrant_ssh" height="250"/></p>
+
+6. Record the date and time by exuting the date command
+
+<p align="center"><img src="images/task2.1vagrant_date" height="250"/></p>
+
+7. Stop and delete the created VM.
+
+<p align="center"><img src="images/task2.1_shutdown, destroy" height="250"/></p>
 
