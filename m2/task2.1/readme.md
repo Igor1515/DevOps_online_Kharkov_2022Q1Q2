@@ -60,7 +60,7 @@ Part 2. ork with virtualbox
 
 2.4 Configure different network modes for VM1, VM2
 
-<p align="center"><img src="images/task2.1(network)" height="250"/></p>
+<p align="center"><img src="images/task2.1(network).png" height="250"/></p>
 
 
 PART 3. WORK WITH VAGRANT
@@ -73,11 +73,11 @@ PART 3. WORK WITH VAGRANT
 
 4. Run Vagrant up and watch for messages during VM boot and startup.
 
-<p align="center"><img src="images/task2.1vagrant_up" height="250"/></p>
+<p align="center"><img src="images/task2.1vagrant_up.png" height="250"/></p>
 
 5. Connect to the VM using SSH 
 
-<p align="center"><img src="images/task2.1vagrant_ssh" height="250"/></p>
+<p align="center"><img src="images/task2.1vagrant_ssh.png" height="250"/></p>
 
 6. Record the date and time by exuting the date command
 
